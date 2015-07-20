@@ -1,4 +1,4 @@
-# AngularJS module for mobile notification
+# AngularJS service for mobile notification
 
 Angular Service to send mobile notification. This depends on Mobile Notification API https://github.com/CDKGlobal/mobile-notification-api
 
