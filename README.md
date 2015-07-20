@@ -1,15 +1,15 @@
 # AngularJS module for mobile notification
 
-[TODO - brief summary]
+Angular Service to send mobile notification. This depends on Mobile Notification API https://github.com/CDKGlobal/mobile-notification-api
 
 ## Demo
 http://jayeshgangadharan.github.io/angular-mobile-notification/
 
 ## Dependencies
 - required:
-	[TODO]
+	Mobile notification api https://github.com/CDKGlobal/mobile-notification-api
 - optional
-	[TODO]
+
 
 See `bower.json` and `index.html` in the `gh-pages` branch for a full list / more details
 
