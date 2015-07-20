@@ -1,14 +1,11 @@
 {
-	"name": "angular-mobile-notification",
-	"version": "1.0.0",
+	"name": "angular-mobile-notification-demo",
+	"version": "0.0.0",
 	"authors": [
 		"jayeshgangadharan@gmail.com"
 	],
-	"description": "AngularJS module for mobile notification",
+	"description": "Demo",
 	"keywords": [
-		"angularjs",
-		"mobile",
-		"notification"
 	],
 	"license": "MIT",
 	"ignore": [
@@ -19,7 +16,10 @@
 		"tests"
 	],
 	"dependencies": {
-		"angular":"~1.2.0"
+		"angular":"~1.2.0",
+		"angular-sanitize":"~1.2.0",
+		"angular-route":"~1.2.0",
+		"angular-touch":"~1.2.0"
 	},
 	"devDependencies": {
 	}
