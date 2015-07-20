@@ -1,0 +1,26 @@
+{
+	"name": "angular-mobile-notification",
+	"version": "1.0.0",
+	"authors": [
+		"jayeshgangadharan@gmail.com"
+	],
+	"description": "AngularJS module for mobile notification",
+	"keywords": [
+		"angularjs",
+		"mobile",
+		"notification"
+	],
+	"license": "MIT",
+	"ignore": [
+		"**/.*",
+		"node_modules",
+		"bower_components",
+		"test",
+		"tests"
+	],
+	"dependencies": {
+		"angular":"~1.2.0"
+	},
+	"devDependencies": {
+	}
+}
